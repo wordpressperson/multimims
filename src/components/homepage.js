@@ -156,12 +156,12 @@ class Homepage extends Component {
                 </a>
               </li>
               <li className="list-inline-item">
-                <a href="#something">
+                <a href="facebook.com/CovenantOlodo">
                   <i className="fa fa-facebook-f"></i>
                 </a>
               </li>
               <li className="list-inline-item">
-                <a href="#something">
+                <a href="instagram.com/iamnotyetmarried">
                   <i className="fa fa-instagram"></i>
                 </a>
               </li>
