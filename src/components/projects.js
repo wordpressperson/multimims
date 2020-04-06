@@ -15,7 +15,7 @@ class Projects extends Component {
         <div className="projects-grid">
           {/* Project 1 */}
           <Card shadow={5} style={{minWidth: '450', margin: 'auto'}}>
-            <CardTitle style={{color: '#fff', height: '176px', background: 'url(/img/muyiwa.png) center / cover'}} >      </CardTitle>
+            <CardTitle style={{color: '#fff', height: '176px', background: 'url(multimims/img/muyiwa.png) center / cover'}} >      </CardTitle>
             <CardText>
               Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's
             </CardText>
@@ -29,7 +29,7 @@ class Projects extends Component {
 
           {/* Project 2 */}
           <Card shadow={5} style={{minWidth: '450', margin: 'auto'}}>
-            <CardTitle style={{color: '#fff', height: '176px', background: 'url(/img/Avater3.png) center / cover'}} > </CardTitle>
+            <CardTitle style={{color: '#fff', height: '176px', background: 'url(http:localhost:3000/img/Avater3.png) center / cover'}} > </CardTitle>
             <CardText>
               Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's
             </CardText>
