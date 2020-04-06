@@ -43,7 +43,7 @@ class Projects extends Component {
 
           {/* Project 3 */}
           <Card shadow={5} style={{minWidth: '450', margin: 'auto'}}>
-            <CardTitle style={{color: '#fff', height: '176px', background: 'url(/img/mario.png) center / cover'}} > </CardTitle>
+            <CardTitle style={{color: '#fff', height: '176px', background: 'url(/multimims/img/mario.png) center / cover'}} > </CardTitle>
             <CardText>
               Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's
             </CardText>
