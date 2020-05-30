@@ -8,14 +8,13 @@ class Contact extends Component {
       <div className="contact-body">
         <Grid className="contact-grid">
           <Cell col={6}>
-            <h2>Aquila Bish</h2>
+            <h2>Annalise Bish</h2>
             <img
               src={Avater}
               alt="avatar"
               style={{height: '70%', width: '90%'}}
                />
-             <p style={{ width: '75%', margin: 'auto', paddingTop: '1em'}}>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries</p>
-
+             <p style={{ width: '75%', margin: 'auto', paddingTop: '1em'}}>The board of trustees of World Mission Agency is responsible for the appointment of members of the Board of Regents (Governing Council) of Landmark University. The Board is the apex governing body of the University.</p>
           </Cell>
           <Cell col={6}>
             <h2>Contact Me</h2>
@@ -26,7 +25,7 @@ class Contact extends Component {
                 <ListItem>
                   <ListItemContent style={{fontSize: '30px', fontFamily: 'Anton'}}>
                     <i className="fa fa-phone-square" aria-hidden="true"/>
-                    (234) 813-239-2693
+                    (234) 802-076-6690
                   </ListItemContent>
                 </ListItem>
 

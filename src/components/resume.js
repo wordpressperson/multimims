@@ -21,16 +21,16 @@ class Resume extends Component {
             </div>
 
             <h2 style={{paddingTop: '2em'}}>Raziela Snow</h2>
-            <h4 style={{color: 'grey'}}>Lead, LMU Infometrics</h4>
+            <h4 style={{color: 'grey'}}>Landmark University</h4>
             <hr style={{borderTop: '3px solid #833fb2', width: '50%'}}/>
-            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</p>
+            <p>World Mission Agency (WMA), a Christian mission organization, founded by Dr. David Oyedepo is the umbrella governing body of Landmark University. The Chancellor, Dr. David Oyedepo serves as the chairman of the board of trustees of World Mission Agency.</p>
             <hr style={{borderTop: '3px solid #833fb2', width: '50%'}}/>
             <h5>Address</h5>
             <p>Km 4, Ipetu, Omu Aran, Kwara State</p>
             <h5>Phone</h5>
-            <p>(234) 813-239-2693</p>
+            <p>(234) 0802-076-6690</p>
             <h5>Email</h5>
-            <p>info@covenantolodo.com</p>
+            <p>covenantolodo@gmail.com</p>
             <h5>Web</h5>
             <p>covenantolodo.com</p>
             <hr style={{borderTop: '3px solid #833fb2', width: '50%'}}/>
@@ -40,15 +40,15 @@ class Resume extends Component {
 
 
             <Education
-              startYear={2009}
-              endYear={2013}
+              startYear={2011}
+              endYear={2015}
               schoolName="Landmark University"
               schoolDescription="Breaking new grounds through an agrarian revolution"
                />
 
                <Education
-                 startYear={2014}
-                 endYear={2016}
+                 startYear={2016}
+                 endYear={2018}
                  schoolName="Covenant University"
                  schoolDescription="Raising a new generation of leaders by promoting mental productivity"
                   />
@@ -57,15 +57,15 @@ class Resume extends Component {
               <h2>Experience</h2>
 
             <Experience
-              startYear={2017}
-              endYear={2018}
+              startYear={2018}
+              endYear={2019}
               jobName="Covenant University Secondary School"
               jobDescription="This is a Nigerian Christian secondary school located within the Covenant University campus in Ota, Ogun State. It was established on 14 October 2010, primarily to cater for the educational needs of the children of academic and non-academic staff of the school."
               />
 
               <Experience
-                startYear={2012}
-                endYear={2016}
+                startYear={2019}
+                endYear={2020}
                 jobName="Landmark University Secondary School"
                 jobDescription="Christian secondary school located in Omu-Aran, Kwara State. Established 10 January, 2011 by Living Faith Church Worldwide."
                 />
